@@ -91,6 +91,6 @@ This evaluation was designed to demonstrate:
 
 ## 📬 Contact  
 **Katarzyna Stupak-Postmus**  
-AI & Compliance Analyst  
+AI & Compliance Enthusiast  
 www.aiwithkatarzyn.com  
 

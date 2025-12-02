@@ -1,6 +1,12 @@
 # Multi-Model LLM Performance & Safety Assessment  
 **Author: Katarzyna Stupak-Postmus (2025)**
 
+<p align="center">
+  <img src="infographic.png" alt="LLM Evaluation Infographic" width="850">
+</p>
+
+<p align="center"><i>Infographic generated with NotebookLM based on my custom LLM evaluation benchmark.</i></p>
+
 A comprehensive evaluation of three Large Language Models (**GPT-5**, **Gemini 2.5 Flash**, **Grok-4**) across key dimensions:  
 hallucinations, reasoning accuracy, ethical safety, bias resistance, prompt robustness, consistency, and compliance.
 
